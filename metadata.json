@@ -1,0 +1,5 @@
+{
+  "name": "Pirâmide de Bancabilidade",
+  "description": "Uma pirâmide interativa que demonstra os níveis de bancabilidade, desde o grau de investimento mais alto até o risco de inadimplência.",
+  "requestFramePermissions": []
+}
